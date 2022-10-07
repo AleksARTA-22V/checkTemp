@@ -12,5 +12,5 @@ function startWithI(item) {
     }
 }
 
-countCode("i")
+countCode(iStartAmount)
 console.log(iStartAmount)
