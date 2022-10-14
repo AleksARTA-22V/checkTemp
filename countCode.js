@@ -13,4 +13,3 @@ function countCode(a){
 }
 
 console.log(countCode('i'))
-console.log(countCode('c'))
